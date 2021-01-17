@@ -5,7 +5,7 @@ repo: biscstatus # Your GitHub repository name
 # Add your sites here
 sites:
   - name: BISCtech
-    url: https://bisc.tech
+    url: http://bisc.tech
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -14,8 +14,8 @@ status-website:
   baseUrl: /biscstatus
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: BISCtech status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
